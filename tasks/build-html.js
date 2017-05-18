@@ -416,7 +416,7 @@ module.exports = function (grunt) {
                 // copy original folder structure into dest folder and compile templates
                 else if (params.basePath || params.basePath === "") {
                     // new path = dest + (src path without basePath at the beginning)
-                    destPath = dest + src.substring(params.basePath.length, src.length);
+                    destPath = src.substring(params.basePath.length, src.length);
                 }
                 // Regex for path
                 else if (isFileRegex.test(dest)) {

@@ -1,8 +1,8 @@
 {
-  "name": "grunt-html-build",
-  "description": "Grunt HTML Builder - Appends scripts and styles, Removes debug parts, append html partials, Template options",
-  "version": "0.7.1",
-  "homepage": "https://github.com/spatools/grunt-html-build.git",
+  "name": "grunt-html-build-nich",
+  "description": "Grunt HTML Builder - Appends scripts and styles, Removes debug parts, append html partials, Template options - Forked from https://github.com/spatools/grunt-html-build",
+  "version": "0.7.3",
+  "homepage": "https://github.com/Spuffynism/grunt-html-build-nich.git",
   "license": "MIT",
   "author": {
     "name": "SPA Tools",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/spatools/grunt-html-build.git"
+    "url": "git://github.com/Spuffynism/grunt-html-build-nich.git"
   },
   "bugs": {
-    "url": "https://github.com/spatools/grunt-html-build/issues"
+    "url": "https://github.com/Spuffynism/grunt-html-build-nich/issues"
   },
   "scripts": {
     "test": "grunt --stack"

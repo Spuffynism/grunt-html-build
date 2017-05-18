@@ -1,6 +1,7 @@
 # grunt-html-build [![NPM version](https://badge.fury.io/js/grunt-html-build.png)](http://badge.fury.io/js/grunt-html-build)
 
-[Grunt][grunt] HTML Builder - Appends scripts and styles, Removes debug parts, append html partials, Template options
+[Grunt][grunt] HTML Builder - Appends scripts and styles, Removes debug parts, append html partials, 
+Template options - Forked from [spatools/grunt-html-build](https://github.com/spatools/grunt-html-build)
 
 ## Getting Started
 
